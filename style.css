@@ -1,6 +1,12 @@
 body {margin-left: 200px; margin-right: 200px;}
-h1 {font-family: times new roman;}
+h1 {font-family: georgia;}
 h4, h5, p {font-family: arial; font-size: 14px; line-height: 20px;}
 h5 {font-style: italic;}
-#p1 {border: black 1px solid; width: 200px; padding: 10px; background-color: #F5F5F5; color: black;} 
-ol {font-family: arial; font-size: 13px; line-height: 18px;}
+#p1 {border: black 1px solid; width: 250px; padding: 20px; background-color: #F5F5F5; color: black;} 
+ol, ul {font-family: arial; font-size: 13px; line-height: 18px;}
+img, iframe {width: 150px;} iframe {height: 300px;}
+#tns {float: left; padding: 18px;}
+#p2 {padding: 12px;}
+.column {float: left; width: 50%;}
+/* Clear floats after the columns */
+.row:after {content: ""; display: table; clear: both;}
