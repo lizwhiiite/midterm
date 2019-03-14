@@ -1,0 +1,6 @@
+body {margin-left: 200px; margin-right: 200px;}
+h1 {font-family: times new roman;}
+h4, h5, p {font-family: arial; font-size: 14px; line-height: 20px;}
+h5 {font-style: italic;}
+#p1 {border: black 1px solid; width: 200px; padding: 10px; background-color: #F5F5F5; color: black;} 
+ol {font-family: arial; font-size: 13px; line-height: 18px;}
